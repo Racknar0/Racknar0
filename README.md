@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Camilo Torres</h1>
 <h3 align="center">Electronic maintenance and industrial instrumentation🌟.</h3>
 <h3 align="center">Front End Developer🌟.</h3>
+<h3 align="center">Systems engineer student🌟.</h3>
+
 
 <br>
 
