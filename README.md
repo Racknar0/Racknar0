@@ -79,7 +79,7 @@
       height="40" /> </a>
     <a href="https://www.putty.org/" target="_blank" rel="noreferrer"> <img  src="https://2.bp.blogspot.com/-80iUlcjWBg0/VuUmcM2rWlI/AAAAAAAADSo/syvkQCGIyewPy9eg4Z9ZfyCy8HRfNCeHQ/s1600/putty%2Blogo.png" alt="Putty" width="40"
       height="40" /> </a>
-    <a href="https://visualstudio.microsoft.com/es/" target="_blank" rel="noreferrer"> <img  src="http://assets.stickpng.com/images/58482afbcef1014c0b5e4a21.png" alt="Visual Studio" width="40"
+    <a href="https://visualstudio.microsoft.com/es/" target="_blank" rel="noreferrer"> <img  src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" width="40"
       height="40" /> </a>
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img  src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/102016/untitled-1_115.jpg" alt="Visual Studio" width="40"
       height="40" /> </a>
