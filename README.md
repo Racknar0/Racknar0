@@ -9,7 +9,7 @@
 
 <br>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<p><img align="right" src="https://github.com/Racknar0/Racknar0/blob/master/animation_500_kxa883sd.gif" alt="Racknar0" /></p>
 
 
 - 🌱 I’m currently learning Web Development and other programming languages
@@ -28,7 +28,7 @@
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       alt="camilo torres" height="30" width="40" /></a><a href="https://www.instagram.com/racknar0/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="_._.adam._" height="30" width="40" /></a>
+      alt="_._.Racknar0._" height="30" width="40" /></a>
 </p>
 
 <br>
