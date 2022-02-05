@@ -68,9 +68,17 @@
       alt="react" width="40" height="40" /> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40"
       height="40" /> </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
-      src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="sass" width="40"
+      src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40"
       height="40" /> </a><a href="https://github.com/" target="_blank" rel="noreferrer"> <img
-      src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="sass" width="40"
+      src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github" width="40"
+      height="40" /> </a>
+    <a href="https://httpd.apache.org/" target="_blank" rel="noreferrer"> <img
+      src="https://knock.center/static/k/k.apache.jpg" alt="apache" width="40"
+      height="40" /> </a>
+    <a href="https://httpd.apache.org/" target="_blank" rel="noreferrer"> <img
+      src="https://knock.center/static/k/k.apache.jpg" alt="apache" width="40"
+      height="40" /> </a>
+    <a href="https://www.lua.org/home.html" target="_blank" rel="noreferrer"> <img  src="https://camo.githubusercontent.com/1f48342dccb964f1203624b2dc94ae54f58160860e7b1ed9c3c830ea85c9b3c6/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3330302f312a4757514142572d70384f705a4b6a4e4e3131704d58412e706e67" alt="lua" width="40"
       height="40" /> </a>
 
 </p>
