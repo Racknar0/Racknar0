@@ -52,7 +52,7 @@
     rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="javascript" width="40" height="40" /> </a>  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+      src="https://geeklk.com/wp-content/uploads/2014/03/mysql-geeklk.jpg"
       alt="mysql" width="40" height="40" /> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
       alt="nodejs" width="40" height="40" /> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
@@ -71,9 +71,6 @@
       src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40"
       height="40" /> </a><a href="https://github.com/" target="_blank" rel="noreferrer"> <img
       src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github" width="40"
-      height="40" /> </a>
-    <a href="https://httpd.apache.org/" target="_blank" rel="noreferrer"> <img
-      src="https://knock.center/static/k/k.apache.jpg" alt="apache" width="40"
       height="40" /> </a>
     <a href="https://httpd.apache.org/" target="_blank" rel="noreferrer"> <img
       src="https://knock.center/static/k/k.apache.jpg" alt="apache" width="40"
