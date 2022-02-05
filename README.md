@@ -77,7 +77,15 @@
       height="40" /> </a>
     <a href="https://www.lua.org/home.html" target="_blank" rel="noreferrer"> <img  src="https://camo.githubusercontent.com/1f48342dccb964f1203624b2dc94ae54f58160860e7b1ed9c3c830ea85c9b3c6/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3330302f312a4757514142572d70384f705a4b6a4e4e3131704d58412e706e67" alt="lua" width="40"
       height="40" /> </a>
-
+    <a href="https://www.putty.org/" target="_blank" rel="noreferrer"> <img  src="https://2.bp.blogspot.com/-80iUlcjWBg0/VuUmcM2rWlI/AAAAAAAADSo/syvkQCGIyewPy9eg4Z9ZfyCy8HRfNCeHQ/s1600/putty%2Blogo.png" alt="Putty" width="40"
+      height="40" /> </a>
+    <a href="https://visualstudio.microsoft.com/es/" target="_blank" rel="noreferrer"> <img  src="http://assets.stickpng.com/images/58482afbcef1014c0b5e4a21.png" alt="Visual Studio" width="40"
+      height="40" /> </a>
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img  src="https://www.vozidea.com/wp-content/uploads/2017/02/visual-studio-code.png" alt="Visual Studio" width="40"
+      height="40" /> </a>
+    <a href="https://wordpress.com/es/" target="_blank" rel="noreferrer"> <img  src="https://webpamplona.com/wp-content/uploads/2014/05/wordpress-logo.jpg" alt="Wordpress" width="40"
+      height="40" /> </a>
+    
 </p>
 
 <br>
