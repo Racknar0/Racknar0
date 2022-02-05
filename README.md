@@ -72,7 +72,7 @@
       src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="sass" width="40"
       height="40" /> </a></p>
       <a href="https://github.com/" target="_blank" rel="noreferrer"> <img
-      src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="sass" width="40"
+      src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="sass" width="40"
       height="40" /> </a></p>
 
 <br>
