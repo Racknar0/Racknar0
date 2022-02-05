@@ -81,7 +81,7 @@
       height="40" /> </a>
     <a href="https://visualstudio.microsoft.com/es/" target="_blank" rel="noreferrer"> <img  src="http://assets.stickpng.com/images/58482afbcef1014c0b5e4a21.png" alt="Visual Studio" width="40"
       height="40" /> </a>
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img  src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/102016/untitled-1_115.jpg?itok=JR4ZJKAV" alt="Visual Studio" width="40"
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img  src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/102016/untitled-1_115.jpg" alt="Visual Studio" width="40"
       height="40" /> </a>
     <a href="https://wordpress.com/es/" target="_blank" rel="noreferrer"> <img  src="https://webpamplona.com/wp-content/uploads/2014/05/wordpress-logo.jpg" alt="Wordpress" width="40"
       height="40" /> </a>
