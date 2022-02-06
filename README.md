@@ -93,16 +93,16 @@
 <h3>Statistical Data :-</h3>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=Racknar0&show_icons=true&locale=en&layout=compact"
-    alt="adam-pw" /></p>
+    alt="Racknar0" /></p>
 
 <br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Racknar0&show_icons=true&locale=en"
-    alt="adam-pw" /></p>
+    alt="Racknar0" /></p>
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Racknar0&" alt="adam-pw" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Racknar0&" alt="Racknar0" /></p>
 
 <br>
 <h3>Trophies :-</h3>
