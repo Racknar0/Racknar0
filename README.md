@@ -97,6 +97,16 @@
 <br>
 <h3 align="center">Last Week</h3>
 <!--START_SECTION:waka-->
+
+```text
+JavaScript   2 hrs 6 mins    ███████████████░░░░░░░░░░   60.48 %
+JSON         29 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.22 %
+SCSS         29 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.99 %
+Markdown     20 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.72 %
+CSS          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
+HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+```
+
 <!--END_SECTION:waka-->
 <p align=center>
   <div align=center>
