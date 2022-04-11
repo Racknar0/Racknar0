@@ -95,6 +95,18 @@
 ------------------------------------------------------------------------------------------------------------------------------------------
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
+<!--START_SECTION:waka-->
+
+```text
+JavaScript   2 hrs 6 mins    ███████████████░░░░░░░░░░   60.48 %
+JSON         29 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.22 %
+SCSS         29 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.99 %
+Markdown     20 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.72 %
+CSS          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
+HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+```
+
+<!--END_SECTION:waka-->
 <p align=center>
   <div align=center>
     <a href="https://github.com/racknar0/github-readme-streak-stats" title="Go to Source">
@@ -120,15 +132,4 @@
     <img src="https://github-profile-trophy.vercel.app/?username=racknar0&theme=onedark" width="80%"/>
 </p>
 
-<!--START_SECTION:waka-->
 
-```text
-JavaScript   2 hrs 6 mins    ███████████████░░░░░░░░░░   60.48 %
-JSON         29 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.22 %
-SCSS         29 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.99 %
-Markdown     20 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.72 %
-CSS          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
-HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
-```
-
-<!--END_SECTION:waka-->
