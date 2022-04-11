@@ -1,13 +1,15 @@
-<h1 align="center">Hi 👋, I'm Camilo Torres</h1>
-<h4 align="center">Systems engineer.</h4>
-<h4 align="center">Electronic maintenance and industrial instrumentation.</h4>
-<h4 align="center">Front End Developer.</h4>
+<div style="background-color:rgb(13, 17, 23); padding: 10px; color:rgb(228, 242, 254); border-radius: 15px;">
+
+<h1 align="center" style="color:rgb(228, 242, 254)">Hi 👋, I'm Camilo Torres</h1>
+<h4 align="center" style="color:rgb(228, 242, 254)">Systems engineer.</h4>
+<h4 align="center" style="color:rgb(228, 242, 254)">Electronic maintenance and industrial instrumentation.</h4>
+<h4 align="center" style="color:rgb(228, 242, 254)">Front End Developer.</h4>
 
 
 
 <br>
 
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=Racknar0&label=Profile%20views&color=0e75b6&style=flat"
+<p align="right"> <h3 style="color:rgb(228, 242, 254)">Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=Racknar0&label=Profile%20views&color=0e75b6&style=flat"
     alt="Racknar0" /> 
   </p>
 
@@ -24,7 +26,7 @@
 
 <br>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left" style="color:rgb(228, 242, 254)">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/jonathan-camilo-torres-rodriguez-a47136218/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
@@ -36,7 +38,7 @@
 </p>
 
 <br>
-<h2 align="center">⚡ Skills ⚡</h2>
+<h2 align="center" style="color:rgb(228, 242, 254)">⚡ Skills ⚡</h2>
 <p align="center"> 
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
@@ -91,7 +93,7 @@
 <br>
 
 ------------------------------------------------------------------------------------------------------------------------------------------
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center" style="color:rgb(228, 242, 254)">⚡ Stats ⚡</h2>
 <br>
 <p align=center>
   <div align=center>
@@ -113,7 +115,11 @@
 </p>
 
 <hr>
-<h2 align="center">⚡ Trophies ⚡</h2>
+<h2 align="center" style="color:rgb(228, 242, 254)">⚡ Trophies ⚡</h2>
 <p align=center>
     <img src="https://github-profile-trophy.vercel.app/?username=racknar0&theme=onedark" width="80%"/>
 </p>
+
+
+
+</div>
