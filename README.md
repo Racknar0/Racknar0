@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Camilo Torres</h1>
-<h3 align="center">Electronic maintenance and industrial instrumentation🌟.</h3>
-<h3 align="center">Front End Developer🌟.</h3>
-<h3 align="center">Systems engineer🌟.</h3>
+<h4 align="center">Systems engineer.</h4>
+<h4 align="center">Electronic maintenance and industrial instrumentation.</h4>
+<h4 align="center">Front End Developer.</h4>
+
 
 
 <br>
@@ -35,9 +36,8 @@
 </p>
 
 <br>
-
-<h3 align="left">My Skills:</h3>
-<p align="left"> 
+<h2 align="center">⚡ Skills ⚡</h2>
+<p align="center"> 
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
       alt="bootstrap" width="40" height="40" /> </a> 
@@ -113,3 +113,7 @@
 </p>
 
 <hr>
+<h2 align="center">⚡ Trophies ⚡</h2>
+<p align=center>
+    <img src="https://github-profile-trophy.vercel.app/?username=racknar0&theme=onedark" width="80%"/>
+</p>
