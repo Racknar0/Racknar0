@@ -1,4 +1,4 @@
-<div style="background-color:rgb(13, 17, 23); padding: 10px; color:rgb(228, 242, 254); border-radius: 15px;">
+
 
 <h1 align="center" style="color:rgb(228, 242, 254)">Hi 👋, I'm Camilo Torres</h1>
 <h4 align="center" style="color:rgb(228, 242, 254)">Systems engineer.</h4>
@@ -121,5 +121,3 @@
 </p>
 
 
-
-</div>
