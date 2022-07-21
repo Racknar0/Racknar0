@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **racknarow1@gmail.com**
 
-- ⚡ Fun fact :- food and anime are the reasons to live.
+- ⚡ Protfolio: https://j-torres.netlify.app/
 
 <br>
 
