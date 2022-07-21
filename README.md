@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **racknarow1@gmail.com**
 
-- ⚡ Protfolio: https://j-torres.netlify.app/
+- ⚡ Portfolio: https://j-torres.netlify.app/
 
 <br>
 
