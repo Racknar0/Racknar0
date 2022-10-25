@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Camilo Torres</h1>
 <h4 align="center">Systems engineer.</h4>
 <h4 align="center">Electronic maintenance and industrial instrumentation.</h4>
-<h4 align="center">Front End Developer.</h4>
+<h4 align="center">Full Stack Developer.</h4>
 
 
 
