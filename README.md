@@ -39,53 +39,83 @@
 
 <br>
 <h2 align="center">⚡ Skills ⚡</h2>
-<p align="center">
+<p align="center"> 
+    <!-- REACT -->  
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+      alt="react" width="80" height="80" /> </a>
+    <!-- REDUX --> 
+    <a href="https://redux.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/Racknar0/logos/d31c498e1d8a1b255864198af6cb72bfd256670a/coleccion-logos/redux/redux-original.svg"
+      alt="redux" width="80" height="80" /> </a>
+    <!-- JAVASCRIPT --> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
+    rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+      alt="javascript" width="80" height="80" /> </a>
     <!-- Bootstrap -->
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap" width="80" height="80" /> </a> 
+      alt="bootstrap" width="80" height="80" /> </a>
+    <!-- SASS -->  
+    <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="80"
+      height="80" /> </a>
+    <!-- NODEJS --> 
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+      alt="nodejs" width="80" height="80" /> </a> 
+    <!-- EXPRESS --> 
+    <a href="https://http.express.org/" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/Racknar0/logos/d31c498e1d8a1b255864198af6cb72bfd256670a/coleccion-logos/express/express-original-wordmark.svg" alt="apache" width="80"
+      height="80" /> </a>
+    <!-- CSS -->
     <a href="https://www.w3schools.com/css/" target="_blank"
     rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
-      width="80" height="80" /> </a> 
+      width="80" height="80" /> </a>
+    <!-- HTML -->
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5" width="80" height="80" /> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
+      alt="html5" width="80" height="80" /> </a>
+    <!-- JAVA -->  
+    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="80"
-      height="80" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript" width="80" height="80" /> </a>  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
+      height="80" /> </a>
+    <!-- MYSQL -->   
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
       src="https://i.pinimg.com/564x/09/7b/34/097b349ab1d78c15744c3a89ff457939--technology-logo-vector-free.jpg"
-      alt="mysql" width="80" height="80" /> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs" width="80" height="80" /> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
-      alt="pandas" width="80" height="80" /> </a> <a href="https://www.photoshop.com/en" target="_blank"
+      alt="mysql" width="80" height="80" /> </a> 
+    <!-- PHOTOSHOP -->  
+    <a href="https://www.photoshop.com/en" target="_blank"
     rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop"
-      width="80" height="80" /> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
+      width="80" height="80" /> </a>
+    <!-- PHYTON -->  
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
-      width="80" height="80" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react" width="80" height="80" /> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="80"
-      height="80" /> </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
+      width="80" height="80" /> </a>
+    <!-- GIT --> 
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
       src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="80"
-      height="80" /> </a><a href="https://github.com/" target="_blank" rel="noreferrer"> <img
+      height="80" /> </a>
+    <!-- GITHUB --> 
+    <a href="https://github.com/" target="_blank" rel="noreferrer"> <img
       src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github" width="80"
       height="80" /> </a>
-    <a href="https://httpd.apache.org/" target="_blank" rel="noreferrer"> <img
-      src="https://knock.center/static/k/k.apache.jpg" alt="apache" width="80"
-      height="80" /> </a>
+    <!-- LUA -->
     <a href="https://www.lua.org/home.html" target="_blank" rel="noreferrer"> <img  src="https://camo.githubusercontent.com/1f48342dccb964f1203624b2dc94ae54f58160860e7b1ed9c3c830ea85c9b3c6/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3330302f312a4757514142572d70384f705a4b6a4e4e3131704d58412e706e67" alt="lua" width="80"
       height="80" /> </a>
+    <!-- PUTTY -->
     <a href="https://www.putty.org/" target="_blank" rel="noreferrer"> <img  src="https://2.bp.blogspot.com/-80iUlcjWBg0/VuUmcM2rWlI/AAAAAAAADSo/syvkQCGIyewPy9eg4Z9ZfyCy8HRfNCeHQ/s1600/putty%2Blogo.png" alt="Putty" width="80"
       height="80" /> </a>
+    <!-- VISUAL STUDIO CODE -->
     <a href="https://visualstudio.microsoft.com/es/" target="_blank" rel="noreferrer"> <img  src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" width="80"
       height="80" /> </a>
+    <!-- VISUAL STUDIO -->
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img  src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/102016/untitled-1_115.jpg" alt="Visual Studio" width="80"
       height="80" /> </a>
+    <!-- WORDPRESS -->
     <a href="https://wordpress.com/es/" target="_blank" rel="noreferrer"> <img  src="https://webpamplona.com/wp-content/uploads/2014/05/wordpress-logo.jpg" alt="Wordpress" width="80"
       height="80" /> </a>
     
