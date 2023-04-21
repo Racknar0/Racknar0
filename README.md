@@ -15,7 +15,7 @@
 
 <br>
 
-<p><img align="right" src="https://github.com/Racknar0/Racknar0/blob/master/animation_500_kxa883sd.gif" alt="Racknar0" /></p>
+<p><img align="right" src="https://github.com/Racknar0/Racknar0/blob/master/giphy.gif" alt="Racknar0" /></p>
 
 
 - 🌱 I’m currently learning Web Development and other programming languages
