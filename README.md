@@ -130,9 +130,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   8 hrs 16 mins   ███████████▒░░░░░░░░░░░░░   45.27 %
-Lua          6 hrs 10 mins   ████████▒░░░░░░░░░░░░░░░░   33.79 %
-Other        1 hr 20 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.30 %
+Lua          6 hrs 59 mins   ███████████▒░░░░░░░░░░░░░   45.51 %
+JavaScript   4 hrs 25 mins   ███████▒░░░░░░░░░░░░░░░░░   28.80 %
+Other        2 hrs 44 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.85 %
 ```
 
 <!--END_SECTION:waka-->
