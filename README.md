@@ -130,9 +130,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python       28 mins         ██████████████▓░░░░░░░░░░   58.30 %
-JavaScript   14 mins         ███████▒░░░░░░░░░░░░░░░░░   29.18 %
-SCSS         6 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.53 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
