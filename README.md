@@ -130,7 +130,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript      3 hrs 41 mins   ██████░░░░░░░░░░░░░░░░░░░   24.46 %
+JavaScript      3 hrs 41 mins   ██████░░░░░░░░░░░░░░░░░░░   24.45 %
 CSS             3 hrs 30 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.27 %
 SCSS            2 hrs 28 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.36 %
 Smarty          2 hrs 20 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.56 %
