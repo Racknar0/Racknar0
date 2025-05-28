@@ -130,11 +130,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java Properties   7 mins          ███████████▒░░░░░░░░░░░░░   45.86 %
-Groovy            4 mins          ██████▓░░░░░░░░░░░░░░░░░░   27.08 %
-JavaScript        1 min           ███▒░░░░░░░░░░░░░░░░░░░░░   12.92 %
-Bash              1 min           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.04 %
-JSON              0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
