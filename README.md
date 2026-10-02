@@ -130,10 +130,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other        2 hrs 21 mins         ████████████████▒░░░░░░░░   64.88 %
-Bash         57 mins               ██████▓░░░░░░░░░░░░░░░░░░   26.19 %
-PHP          19 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   08.86 %
-JavaScript   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
