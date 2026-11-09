@@ -42,20 +42,12 @@
 ### ⚡ GitHub Statistics
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Racknar0&show_icons=true&theme=react&hide_border=true" alt="Camilo's GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Racknar0&theme=react&hide_border=true" alt="GitHub Streak" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Racknar0&show_icons=true&theme=react&hide_border=true" height="165" alt="Camilo's Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Racknar0&theme=react&hide_border=true" height="165" alt="GitHub Streak" />
+  
+  <br><br>
 
-  <br>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Racknar0&layout=compact&theme=react&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Racknar0&layout=compact&theme=react&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
 </div>
 
 ---
@@ -63,5 +55,5 @@
 ### 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Racknar0&theme=onedark&no-frame=true&margin-w=4" width="85%" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Racknar0&theme=dracula&no-frame=true&margin-w=4" width="85%" alt="GitHub Trophies" />
 </div>
