@@ -44,8 +44,4 @@
 <div align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=Racknar0&show_icons=true&theme=react&hide_border=true" height="165" alt="Camilo's Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Racknar0&theme=react&hide_border=true" height="165" alt="GitHub Streak" />
-  
-  <br><br>
-
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Racknar0&layout=compact&theme=react&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
 </div>
