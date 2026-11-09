@@ -52,8 +52,12 @@
 
 ---
 
-### 📈 Activity Graph
+### 🐍 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Racknar0&theme=react-dark&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Racknar0/Racknar0/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Racknar0/Racknar0/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/Racknar0/Racknar0/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
