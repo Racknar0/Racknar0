@@ -49,15 +49,3 @@
 
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Racknar0&layout=compact&theme=react&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
 </div>
-
----
-
-### 🐍 Contribution Graph
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Racknar0/Racknar0/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Racknar0/Racknar0/output/github-contribution-grid-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/Racknar0/Racknar0/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
